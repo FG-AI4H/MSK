@@ -1,5 +1,5 @@
 ---
-title: FG-AI4H
+title: Musculoskeletal Medicine (TG-MSK)
 layout: home
 description: Topic Group Musculoskeletal Medicine (TG-MSK)
 intro_image: "images/illustrations/reading.png"
@@ -11,3 +11,4 @@ show_call_box: true
 # Topic Group Musculoskeletal Medicine (TG-MSK)
 
 Topic Group Musculoskeletal Medicine (TG-MSK) of the ITU/WHO Focus Group on Artificial Intelligence for Health (FG-AI4H).
+
